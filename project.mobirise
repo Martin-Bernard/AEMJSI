@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-30_1625",
+    "name": "AEMJSI",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -32,6 +32,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/diseo-del-logotipo-trans-3-128x128.png",
+    "noImageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 19,
     "versionPublish": "4.11.6"
   },
