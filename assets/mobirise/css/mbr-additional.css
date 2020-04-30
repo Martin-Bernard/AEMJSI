@@ -852,14 +852,27 @@ section.lazy-placeholder:after {
 .cid-rXELybVuux .mbr-text {
   color: #232323;
 }
+.cid-rXF0DKpxpK {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rXF0DKpxpK P {
+  color: #767676;
+}
+.cid-rXF0DKpxpK .mbr-text,
+.cid-rXF0DKpxpK .mbr-section-btn {
+  color: #232323;
+}
 .cid-rXESXCcRqL {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-rXESXCcRqL .testimonial-text {
   font-style: italic;
   font-weight: 300;
+  color: #232323;
 }
 .cid-rXESXCcRqL .mbr-author-name {
   font-weight: bold;
